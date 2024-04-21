@@ -1,7 +1,7 @@
 {
     "build": {
       "env": {
-          "NPM_CONFIG_INSTALL_OPTIONS": "--force"
+          "NPM_CONFIG_INSTALL_OPTIONS": "--legacy-peer-deps"
       }
     }
   }
