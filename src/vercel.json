@@ -4,5 +4,8 @@
           "NPM_CONFIG_INSTALL_OPTIONS": "--legacy-peer-deps"
       }
     }
+    "rewrites": [
+        { "source": "/(.*)",destination: "/"}
+    ]
   }
   
